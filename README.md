@@ -1,4 +1,4 @@
-BPM Camp
+BPM Camp - 6.x
 ====================
 
 Slides and exercises for the BPM Camp events.
