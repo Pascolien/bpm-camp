@@ -1,4 +1,4 @@
-BPMN Camp
+BPM Camp
 ====================
 
 Slides and exercises for the BPM Camp events.
